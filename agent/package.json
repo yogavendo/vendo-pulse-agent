@@ -1,0 +1,11 @@
+{
+  "name": "vendo-pulse-agent",
+  "version": "1.0.0",
+  "description": "Lightweight peer monitoring agent built on Intercom infrastructure",
+  "main": "index.js",
+  "author": "yogavendo",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
