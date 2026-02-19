@@ -46,8 +46,8 @@ node index.js
 
 ## 📸 Expected Execution Output
 
-🚀 Vendo Pulse Agent Started...
-🔎 Initializing peer monitoring module...
+🚀 Vendo Pulse Agent Started
+🔎 Initializing peer monitoring module
 ✅ Active peers: 3
 📶 Average latency: 24.00 ms
 📡 Network health: Stable
